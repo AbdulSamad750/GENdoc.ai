@@ -230,7 +230,8 @@ This project was built for Microsoft Imagine Cup 2026. Contributions welcome!
 
 **Abdul Samad Shaikh**
 - 🏫 M.H. Saboo Siddik College of Engineering, Mumbai
-- 📧 Email: samad.221435.it@gmail.com
+- 📧 Email: samad.221435.it@mhscce.ac.in
+- 
 
 ## 🏆 Microsoft Imagine Cup 2026
 
